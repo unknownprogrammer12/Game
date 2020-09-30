@@ -6,6 +6,7 @@ the utter basics
 	Game.render(function(ctx) {});
 	Game.input(function(type, eventObject) {});
 	
-From these basic functions you can create your own flavour of a game engine.
+From these basic functions you can create your own flavour of a game engine with a very creative and way and best of luck for our project.
 
 This is built from the article here: http://louisstow.tumblr.com/post/19103446204/unobtrusive-game-engines
+Have a nice day.
